@@ -1,0 +1,6 @@
+project: jacob-clemente/squashfs-tools
+target: mksquashfs
+
+cmds:
+  - cmd: /mksquashfs @@ out
+
